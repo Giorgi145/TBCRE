@@ -1,0 +1,18 @@
+@media (max-width: 1120px) {
+    .image-6-7-8{
+        display: block;
+        text-align: center;
+    }
+}
+@media (max-width: 1120px) {
+    .content{
+        width: 130px;
+        margin-top: 6%;
+        margin-left: -2.9%;
+    }
+}
+@media (max-width: 1120px) {
+    .full10{
+        margin-left: -100%;
+    }
+}
